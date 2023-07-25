@@ -11,7 +11,6 @@ function App() {
         <div className="item item5">5</div>
         <div className="item item6">6</div>
         <div className="item item7">7</div>
-        <div className="item message">📩</div>
         <div className="item item8">8</div>
         <div className="item item9">9</div>
         <div className="item item10">10</div>
@@ -25,16 +24,6 @@ function App() {
         <div className="item item18">18</div>
         <div className="item item19">19</div>
         <div className="item item20">20</div>
-        <div className="item item21">21</div>
-        <div className="item item22">22</div>
-        <div className="item item23">23</div>
-        <div className="item item24">24</div>
-        <div className="item item25">25</div>
-        <div className="item item26">26</div>
-        <div className="item item27">27</div>
-        <div className="item item28">28</div>
-        <div className="item item29">29</div>
-        <div className="item item30">30</div>
       </div>
     </>
   );
